@@ -1,4 +1,4 @@
-#Golang Algo
+# Golang Algo
 This is a repo mainly focus on study, learning and practices golang with algo
 
 ## Binary Search Tree - bst.go
